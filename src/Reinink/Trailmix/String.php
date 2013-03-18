@@ -1,6 +1,6 @@
 <?php
 
-namespace Reinink\MixedBag;
+namespace Reinink\Trailmix;
 
 class String
 {
