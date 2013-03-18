@@ -1,0 +1,10 @@
+{
+	"name": "reinink/mixedbag",
+	"autoload":
+	{
+		"psr-0":
+		{
+			"Reinink\\MixedBag\\": "src"
+		}
+	}
+}
