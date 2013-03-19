@@ -2,7 +2,7 @@
 
 namespace Reinink\Trailmix;
 
-class String
+class Str
 {
     public static function slug($string)
     {
